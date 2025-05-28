@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileLoggerAdapter/1.0.0": {
+        "runtime": {
+          "FileLoggerAdapter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileLoggerAdapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

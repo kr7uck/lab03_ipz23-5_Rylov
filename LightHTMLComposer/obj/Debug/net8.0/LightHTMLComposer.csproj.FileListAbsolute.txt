@@ -1,0 +1,14 @@
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\bin\Debug\net8.0\LightHTMLComposer.exe
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\bin\Debug\net8.0\LightHTMLComposer.deps.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\bin\Debug\net8.0\LightHTMLComposer.runtimeconfig.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\bin\Debug\net8.0\LightHTMLComposer.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\bin\Debug\net8.0\LightHTMLComposer.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\LightHTMLComposer.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\LightHTMLComposer.AssemblyInfoInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\LightHTMLComposer.AssemblyInfo.cs
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\LightHTMLComposer.csproj.CoreCompileInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\LightHTMLComposer.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\refint\LightHTMLComposer.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\LightHTMLComposer.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\LightHTMLComposer.genruntimeconfig.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\LightHTMLComposer\obj\Debug\net8.0\ref\LightHTMLComposer.dll

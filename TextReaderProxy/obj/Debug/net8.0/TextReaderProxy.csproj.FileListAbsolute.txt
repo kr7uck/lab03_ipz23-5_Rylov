@@ -1,0 +1,30 @@
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.exe
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.deps.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.runtimeconfig.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.AssemblyInfoInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.AssemblyInfo.cs
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.csproj.CoreCompileInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\refint\TextReaderProxy.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.genruntimeconfig.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\ref\TextReaderProxy.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.sourcelink.json
+F:\KPZ\3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.exe
+F:\KPZ\3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.deps.json
+F:\KPZ\3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.runtimeconfig.json
+F:\KPZ\3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.dll
+F:\KPZ\3\TextReaderProxy\bin\Debug\net8.0\TextReaderProxy.pdb
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.AssemblyInfoInputs.cache
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.AssemblyInfo.cs
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.csproj.CoreCompileInputs.cache
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.sourcelink.json
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.dll
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\refint\TextReaderProxy.dll
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.pdb
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\TextReaderProxy.genruntimeconfig.cache
+F:\KPZ\3\TextReaderProxy\obj\Debug\net8.0\ref\TextReaderProxy.dll

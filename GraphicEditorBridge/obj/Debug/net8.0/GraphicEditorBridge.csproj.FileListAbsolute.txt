@@ -1,0 +1,29 @@
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.exe
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.deps.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.runtimeconfig.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.AssemblyInfoInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.AssemblyInfo.cs
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.csproj.CoreCompileInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\refint\GraphicEditorBridge.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.genruntimeconfig.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\GraphicEditorBridge\obj\Debug\net8.0\ref\GraphicEditorBridge.dll
+F:\KPZ\3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.exe
+F:\KPZ\3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.deps.json
+F:\KPZ\3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.runtimeconfig.json
+F:\KPZ\3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.dll
+F:\KPZ\3\GraphicEditorBridge\bin\Debug\net8.0\GraphicEditorBridge.pdb
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.AssemblyInfoInputs.cache
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.AssemblyInfo.cs
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.csproj.CoreCompileInputs.cache
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.sourcelink.json
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.dll
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\refint\GraphicEditorBridge.dll
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.pdb
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\GraphicEditorBridge.genruntimeconfig.cache
+F:\KPZ\3\GraphicEditorBridge\obj\Debug\net8.0\ref\GraphicEditorBridge.dll

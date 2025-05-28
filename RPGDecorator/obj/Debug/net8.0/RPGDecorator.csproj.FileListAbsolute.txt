@@ -1,0 +1,29 @@
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.exe
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.deps.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.runtimeconfig.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.AssemblyInfoInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.AssemblyInfo.cs
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.csproj.CoreCompileInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\refint\RPGDecorator.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.genruntimeconfig.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\RPGDecorator\obj\Debug\net8.0\ref\RPGDecorator.dll
+F:\KPZ\3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.exe
+F:\KPZ\3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.deps.json
+F:\KPZ\3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.runtimeconfig.json
+F:\KPZ\3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.dll
+F:\KPZ\3\RPGDecorator\bin\Debug\net8.0\RPGDecorator.pdb
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.AssemblyInfoInputs.cache
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.AssemblyInfo.cs
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.csproj.CoreCompileInputs.cache
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.sourcelink.json
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.dll
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\refint\RPGDecorator.dll
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.pdb
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\RPGDecorator.genruntimeconfig.cache
+F:\KPZ\3\RPGDecorator\obj\Debug\net8.0\ref\RPGDecorator.dll

@@ -1,0 +1,12 @@
+﻿namespace RPGDecorator
+{
+    public abstract class Hero
+    {
+        public string Name { get; set; }
+        public int Health { get; set; }
+        public int Attack { get; set; }
+        public int Defense { get; set; }
+
+        public abstract void DisplayStats();
+    }
+}

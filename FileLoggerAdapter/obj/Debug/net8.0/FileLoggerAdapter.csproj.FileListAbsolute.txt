@@ -1,0 +1,14 @@
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.exe
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.deps.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.runtimeconfig.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.AssemblyInfoInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.AssemblyInfo.cs
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.csproj.CoreCompileInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\refint\FileLoggerAdapter.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.genruntimeconfig.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\Lab3\FileLoggerAdapter\obj\Debug\net8.0\ref\FileLoggerAdapter.dll
