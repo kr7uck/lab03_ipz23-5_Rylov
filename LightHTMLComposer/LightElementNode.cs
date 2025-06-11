@@ -1,29 +1,25 @@
-﻿using System.Text;
+
+using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace LightHTMLComposer
 {
-    class LightElementNode : LightNode
+    public class LightElementNode : LightNode
     {
-        public string TagName { get; }
-        public DisplayType Display { get; }
-        public TagType TagType { get; }
-        public List<string> CssClasses { get; }
-        public List<LightNode> Children { get; }
+        public string TagName { get; set; }
+        public DisplayType Display { get; set; }
+        public TagType TagType { get; set; }
+        public List<string> CssClasses { get; } = new();
 
         public LightElementNode(string tagName, DisplayType display, TagType tagType)
         {
             TagName = tagName;
             Display = display;
             TagType = tagType;
-            CssClasses = new List<string>();
-            Children = new List<LightNode>();
         }
 
         public void AddClass(string className) => CssClasses.Add(className);
-
-        public void AddChild(LightNode child) => Children.Add(child);
-
-        public int ChildCount => Children.Count;
 
         public override string InnerHTML
         {
@@ -42,14 +38,19 @@ namespace LightHTMLComposer
         {
             get
             {
-                var classAttr = CssClasses.Count > 0 ? $" class=\"{string.Join(" ", CssClasses)}\"" : "";
-                if (TagType == TagType.Single)
-                {
-                    return $"<{TagName}{classAttr}/>";
-                }
-
-                return $"<{TagName}{classAttr}>{InnerHTML}</{TagName}>";
+                var sb = new StringBuilder();
+                sb.Append($"<{TagName}>");
+                sb.Append(InnerHTML);
+                sb.Append($"</{TagName}>");
+                return sb.ToString();
             }
         }
+
+        protected override void OnCreated() => Console.WriteLine($"[Element Created] <{TagName}>");
+        protected override void OnInserted() => Console.WriteLine($"[Element Inserted] <{TagName}>");
+        protected override void OnRemoved() => Console.WriteLine($"[Element Removed] <{TagName}>");
+        protected override void OnStylesApplied() => Console.WriteLine($"[Styles Applied] <{TagName}>");
+        protected override void OnClassListApplied() => Console.WriteLine($"[ClassList Applied] <{TagName}>");
+        protected override void OnTextRendered() => Console.WriteLine($"[Text Rendered] <{TagName}>");
     }
 }
