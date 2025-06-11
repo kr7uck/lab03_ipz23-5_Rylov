@@ -8,13 +8,13 @@ namespace LightHTMLComposer
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            var ul = new LightElementNode("ul", DisplayType.Block, TagType.Paired);
+            var ul = new LightElementNode("ul", DisplayType.Block, TagType.Opening);
             ul.AddClass("my-list");
 
-            var li1 = new LightElementNode("li", DisplayType.Block, TagType.Paired);
+            var li1 = new LightElementNode("li", DisplayType.Block, TagType.Opening);
             li1.AddChild(new LightTextNode("Перший елемент"));
 
-            var li2 = new LightElementNode("li", DisplayType.Block, TagType.Paired);
+            var li2 = new LightElementNode("li", DisplayType.Block, TagType.Opening);
             li2.AddChild(new LightTextNode("Другий елемент"));
 
             ul.AddChild(li1);
