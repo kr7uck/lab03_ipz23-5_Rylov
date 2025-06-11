@@ -1,169 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\textreaderproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\textreaderproxy\\textreaderproxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\textreaderproxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlflyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|solutionrelative:lighthtmlflyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\fileloggeradapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\fileloggeradapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\fileloggeradapter\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\fileloggeradapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\fileloggeradapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\graphiceditorbridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\graphiceditorbridge\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\graphiceditorbridge\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\graphiceditorbridge\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\graphiceditorbridge\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\graphiceditorbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\graphiceditorbridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\graphiceditorbridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlcomposer\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlcomposer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlcomposer\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlcomposer\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlcomposer\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlcomposer\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\textreaderproxy\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\textreaderproxy\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\textreaderproxy\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\textreaderproxy\\ismarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\ismarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\weapondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\weapondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\inventorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\inventorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\artifactdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\artifactdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\rpgdecorator\\armordecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\armordecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\armordecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlflyweight\\elementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\artifactdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\artifactdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\weapondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\weapondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\rpgdecorator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\rpgdecorator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlcomposer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlcomposer\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlcomposer\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlcomposer\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\textreaderproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\textreaderproxy\\textreaderproxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\textreaderproxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlflyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|solutionrelative:lighthtmlflyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\fileloggeradapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\fileloggeradapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\fileloggeradapter\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\fileloggeradapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\fileloggeradapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723363A5-9D1A-485C-B960-B137108F3519}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\graphiceditorbridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\graphiceditorbridge\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\graphiceditorbridge\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\graphiceditorbridge\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\graphiceditorbridge\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\graphiceditorbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\graphiceditorbridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\graphiceditorbridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304F9505-035F-46AE-8C3E-E2D66F926CC4}|GraphicEditorBridge\\GraphicEditorBridge.csproj|solutionrelative:graphiceditorbridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlcomposer\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlcomposer\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034EDFAF-0236-4104-9E2E-BF6A90E18A56}|LightHTMLComposer\\LightHTMLComposer.csproj|solutionrelative:lighthtmlcomposer\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\textreaderproxy\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\textreaderproxy\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\textreaderproxy\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\textreaderproxy\\ismarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B20895-194B-44AB-9ECA-8384BCF2A129}|TextReaderProxy\\TextReaderProxy.csproj|solutionrelative:textreaderproxy\\ismarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\rpgdecorator\\inventorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DFB50-AA6B-4A66-900B-EF3C486F5981}|RPGDecorator\\RPGDecorator.csproj|solutionrelative:rpgdecorator\\inventorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlflyweight\\elementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|solutionrelative:lighthtmlflyweight\\elementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlflyweight\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlflyweight\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|solutionrelative:lighthtmlflyweight\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlflyweight\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlflyweight\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|solutionrelative:lighthtmlflyweight\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlflyweight\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlflyweight\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|solutionrelative:lighthtmlflyweight\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlflyweight\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlflyweight\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|solutionrelative:lighthtmlflyweight\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|d:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab3\\lighthtmlflyweight\\pg1513.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|c:\\users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\onedrive\\desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\lighthtmlflyweight\\pg1513.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4F26F544-AB5C-4A36-9C44-28B829052620}|LightHTMLFlyweight\\LightHTMLFlyweight.csproj|solutionrelative:lighthtmlflyweight\\pg1513.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -174,79 +178,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TextReaderProxy",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\TextReaderProxy.csproj",
-              "RelativeDocumentMoniker": "TextReaderProxy\\TextReaderProxy.csproj",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\TextReaderProxy.csproj",
-              "RelativeToolTip": "TextReaderProxy\\TextReaderProxy.csproj",
+              "DocumentIndex": 6,
+              "Title": "RPGDecorator",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\RPGDecorator.csproj",
+              "RelativeDocumentMoniker": "RPGDecorator\\RPGDecorator.csproj",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\RPGDecorator.csproj",
+              "RelativeToolTip": "RPGDecorator\\RPGDecorator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T13:59:49.303Z",
+              "WhenOpened": "2025-06-11T00:55:02.792Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\Program.cs",
-              "RelativeDocumentMoniker": "FileLoggerAdapter\\Program.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\Program.cs",
-              "RelativeToolTip": "FileLoggerAdapter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:23:19.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FileLoggerAdapter.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\FileLoggerAdapter.cs",
-              "RelativeDocumentMoniker": "FileLoggerAdapter\\FileLoggerAdapter.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\FileLoggerAdapter.cs",
-              "RelativeToolTip": "FileLoggerAdapter\\FileLoggerAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:23:15.055Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Program.cs",
               "RelativeDocumentMoniker": "RPGDecorator\\Program.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Program.cs",
               "RelativeToolTip": "RPGDecorator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T10:22:02.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "LightHTMLComposer\\LightElementNode.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\LightElementNode.cs",
+              "RelativeToolTip": "LightHTMLComposer\\LightElementNode.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA8wA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:59:41.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisplayType.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\DisplayType.cs",
+              "RelativeDocumentMoniker": "LightHTMLComposer\\DisplayType.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\DisplayType.cs",
+              "RelativeToolTip": "LightHTMLComposer\\DisplayType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:00:44.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Hero.cs",
+              "RelativeDocumentMoniker": "RPGDecorator\\Hero.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Hero.cs",
+              "RelativeToolTip": "RPGDecorator\\Hero.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:21:52.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\WeaponDecorator.cs",
+              "RelativeDocumentMoniker": "RPGDecorator\\WeaponDecorator.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\WeaponDecorator.cs",
+              "RelativeToolTip": "RPGDecorator\\WeaponDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:22:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Warrior.cs",
+              "RelativeDocumentMoniker": "RPGDecorator\\Warrior.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Warrior.cs",
+              "RelativeToolTip": "RPGDecorator\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:22:09.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtifactDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\ArtifactDecorator.cs",
+              "RelativeDocumentMoniker": "RPGDecorator\\ArtifactDecorator.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\ArtifactDecorator.cs",
+              "RelativeToolTip": "RPGDecorator\\ArtifactDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:21:50.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArmorDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\ArmorDecorator.cs",
+              "RelativeDocumentMoniker": "RPGDecorator\\ArmorDecorator.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\ArmorDecorator.cs",
+              "RelativeToolTip": "RPGDecorator\\ArmorDecorator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:21:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\Program.cs",
               "RelativeDocumentMoniker": "TextReaderProxy\\Program.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\Program.cs",
               "RelativeToolTip": "TextReaderProxy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T10:22:18.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\Program.cs",
+              "RelativeDocumentMoniker": "LightHTMLFlyweight\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\Program.cs",
+              "RelativeToolTip": "LightHTMLFlyweight\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:53:01.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "FileWriter.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\FileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\FileWriter.cs",
               "RelativeDocumentMoniker": "FileLoggerAdapter\\FileWriter.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\FileWriter.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\FileWriter.cs",
               "RelativeToolTip": "FileLoggerAdapter\\FileWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,24 +336,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\Program.cs",
-              "RelativeDocumentMoniker": "LightHTMLFlyweight\\Program.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\Program.cs",
-              "RelativeToolTip": "LightHTMLFlyweight\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "FileLoggerAdapter\\FileLoggerAdapter.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "FileLoggerAdapter\\FileLoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:53:01.84Z",
+              "WhenOpened": "2025-04-09T10:23:15.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\Program.cs",
+              "RelativeDocumentMoniker": "FileLoggerAdapter\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\Program.cs",
+              "RelativeToolTip": "FileLoggerAdapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:23:19.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TagType.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\TagType.cs",
+              "RelativeDocumentMoniker": "LightHTMLComposer\\TagType.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\TagType.cs",
+              "RelativeToolTip": "LightHTMLComposer\\TagType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:01:01.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\Program.cs",
+              "RelativeDocumentMoniker": "LightHTMLComposer\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\Program.cs",
+              "RelativeToolTip": "LightHTMLComposer\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA8wBAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:00:20.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TextReaderProxy.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\TextReaderProxy.csproj",
+              "RelativeDocumentMoniker": "TextReaderProxy\\TextReaderProxy.csproj",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\TextReaderProxy.csproj",
+              "RelativeToolTip": "TextReaderProxy\\TextReaderProxy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T13:59:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ILogger.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\ILogger.cs",
               "RelativeDocumentMoniker": "FileLoggerAdapter\\ILogger.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\ILogger.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\ILogger.cs",
               "RelativeToolTip": "FileLoggerAdapter\\ILogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,11 +419,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Logger.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\Logger.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\Logger.cs",
               "RelativeDocumentMoniker": "FileLoggerAdapter\\Logger.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\FileLoggerAdapter\\Logger.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\FileLoggerAdapter\\Logger.cs",
               "RelativeToolTip": "FileLoggerAdapter\\Logger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,11 +431,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "VectorRenderer.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\VectorRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\VectorRenderer.cs",
               "RelativeDocumentMoniker": "GraphicEditorBridge\\VectorRenderer.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\VectorRenderer.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\VectorRenderer.cs",
               "RelativeToolTip": "GraphicEditorBridge\\VectorRenderer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -303,11 +443,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Triangle.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Triangle.cs",
               "RelativeDocumentMoniker": "GraphicEditorBridge\\Triangle.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Triangle.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Triangle.cs",
               "RelativeToolTip": "GraphicEditorBridge\\Triangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -315,11 +455,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Square.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Square.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Square.cs",
               "RelativeDocumentMoniker": "GraphicEditorBridge\\Square.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Square.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Square.cs",
               "RelativeToolTip": "GraphicEditorBridge\\Square.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,11 +467,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Shape.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Shape.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Shape.cs",
               "RelativeDocumentMoniker": "GraphicEditorBridge\\Shape.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Shape.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Shape.cs",
               "RelativeToolTip": "GraphicEditorBridge\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,11 +479,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "RasterRenderer.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\RasterRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\RasterRenderer.cs",
               "RelativeDocumentMoniker": "GraphicEditorBridge\\RasterRenderer.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\RasterRenderer.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\RasterRenderer.cs",
               "RelativeToolTip": "GraphicEditorBridge\\RasterRenderer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Program.cs",
               "RelativeDocumentMoniker": "GraphicEditorBridge\\Program.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Program.cs",
               "RelativeToolTip": "GraphicEditorBridge\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,11 +503,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "IRenderer.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\IRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\IRenderer.cs",
               "RelativeDocumentMoniker": "GraphicEditorBridge\\IRenderer.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\IRenderer.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\IRenderer.cs",
               "RelativeToolTip": "GraphicEditorBridge\\IRenderer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -375,11 +515,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "Circle.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Circle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Circle.cs",
               "RelativeDocumentMoniker": "GraphicEditorBridge\\Circle.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\GraphicEditorBridge\\Circle.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\GraphicEditorBridge\\Circle.cs",
               "RelativeToolTip": "GraphicEditorBridge\\Circle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,23 +527,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "LightHTMLComposer\\LightElementNode.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\LightElementNode.cs",
-              "RelativeToolTip": "LightHTMLComposer\\LightElementNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:59:41.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "LightNode.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\LightNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\LightNode.cs",
               "RelativeDocumentMoniker": "LightHTMLComposer\\LightNode.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\LightNode.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\LightNode.cs",
               "RelativeToolTip": "LightHTMLComposer\\LightNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,11 +539,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "LightTextNode.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\LightTextNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\LightTextNode.cs",
               "RelativeDocumentMoniker": "LightHTMLComposer\\LightTextNode.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\LightTextNode.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLComposer\\LightTextNode.cs",
               "RelativeToolTip": "LightHTMLComposer\\LightTextNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,47 +551,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\Program.cs",
-              "RelativeDocumentMoniker": "LightHTMLComposer\\Program.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\Program.cs",
-              "RelativeToolTip": "LightHTMLComposer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:00:20.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TagType.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\TagType.cs",
-              "RelativeDocumentMoniker": "LightHTMLComposer\\TagType.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\TagType.cs",
-              "RelativeToolTip": "LightHTMLComposer\\TagType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:01:01.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DisplayType.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\DisplayType.cs",
-              "RelativeDocumentMoniker": "LightHTMLComposer\\DisplayType.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLComposer\\DisplayType.cs",
-              "RelativeToolTip": "LightHTMLComposer\\DisplayType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:00:44.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "SmartTextReaderLocker.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\SmartTextReaderLocker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\SmartTextReaderLocker.cs",
               "RelativeDocumentMoniker": "TextReaderProxy\\SmartTextReaderLocker.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\SmartTextReaderLocker.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\SmartTextReaderLocker.cs",
               "RelativeToolTip": "TextReaderProxy\\SmartTextReaderLocker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -471,11 +563,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "SmartTextReader.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\SmartTextReader.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\SmartTextReader.cs",
               "RelativeDocumentMoniker": "TextReaderProxy\\SmartTextReader.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\SmartTextReader.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\SmartTextReader.cs",
               "RelativeToolTip": "TextReaderProxy\\SmartTextReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,11 +575,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "SmartTextChecker.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\SmartTextChecker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\SmartTextChecker.cs",
               "RelativeDocumentMoniker": "TextReaderProxy\\SmartTextChecker.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\SmartTextChecker.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\SmartTextChecker.cs",
               "RelativeToolTip": "TextReaderProxy\\SmartTextChecker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -495,11 +587,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "ISmartTextReader.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\ISmartTextReader.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\ISmartTextReader.cs",
               "RelativeDocumentMoniker": "TextReaderProxy\\ISmartTextReader.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\TextReaderProxy\\ISmartTextReader.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\TextReaderProxy\\ISmartTextReader.cs",
               "RelativeToolTip": "TextReaderProxy\\ISmartTextReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,35 +599,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "WeaponDecorator.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\WeaponDecorator.cs",
-              "RelativeDocumentMoniker": "RPGDecorator\\WeaponDecorator.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\WeaponDecorator.cs",
-              "RelativeToolTip": "RPGDecorator\\WeaponDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:22:12.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Warrior.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Warrior.cs",
-              "RelativeDocumentMoniker": "RPGDecorator\\Warrior.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Warrior.cs",
-              "RelativeToolTip": "RPGDecorator\\Warrior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:22:09.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Paladin.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Paladin.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Paladin.cs",
               "RelativeDocumentMoniker": "RPGDecorator\\Paladin.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Paladin.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Paladin.cs",
               "RelativeToolTip": "RPGDecorator\\Paladin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,11 +611,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Mage.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Mage.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Mage.cs",
               "RelativeDocumentMoniker": "RPGDecorator\\Mage.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Mage.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\Mage.cs",
               "RelativeToolTip": "RPGDecorator\\Mage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -555,11 +623,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "InventoryDecorator.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\InventoryDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\InventoryDecorator.cs",
               "RelativeDocumentMoniker": "RPGDecorator\\InventoryDecorator.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\InventoryDecorator.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\RPGDecorator\\InventoryDecorator.cs",
               "RelativeToolTip": "RPGDecorator\\InventoryDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -567,47 +635,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Hero.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Hero.cs",
-              "RelativeDocumentMoniker": "RPGDecorator\\Hero.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\Hero.cs",
-              "RelativeToolTip": "RPGDecorator\\Hero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:21:52.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ArtifactDecorator.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\ArtifactDecorator.cs",
-              "RelativeDocumentMoniker": "RPGDecorator\\ArtifactDecorator.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\ArtifactDecorator.cs",
-              "RelativeToolTip": "RPGDecorator\\ArtifactDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:21:50.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ArmorDecorator.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\ArmorDecorator.cs",
-              "RelativeDocumentMoniker": "RPGDecorator\\ArmorDecorator.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\RPGDecorator\\ArmorDecorator.cs",
-              "RelativeToolTip": "RPGDecorator\\ArmorDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:21:48.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "LightElementNode.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\LightElementNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\LightElementNode.cs",
               "RelativeDocumentMoniker": "LightHTMLFlyweight\\LightElementNode.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\LightElementNode.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\LightElementNode.cs",
               "RelativeToolTip": "LightHTMLFlyweight\\LightElementNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -615,11 +647,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "LightNode.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\LightNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\LightNode.cs",
               "RelativeDocumentMoniker": "LightHTMLFlyweight\\LightNode.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\LightNode.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\LightNode.cs",
               "RelativeToolTip": "LightHTMLFlyweight\\LightNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -627,11 +659,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "LightTextNode.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\LightTextNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\LightTextNode.cs",
               "RelativeDocumentMoniker": "LightHTMLFlyweight\\LightTextNode.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\LightTextNode.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\LightTextNode.cs",
               "RelativeToolTip": "LightHTMLFlyweight\\LightTextNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -639,11 +671,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Enums.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\Enums.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\Enums.cs",
               "RelativeDocumentMoniker": "LightHTMLFlyweight\\Enums.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\Enums.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\Enums.cs",
               "RelativeToolTip": "LightHTMLFlyweight\\Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -651,11 +683,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "ElementFactory.cs",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\ElementFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\ElementFactory.cs",
               "RelativeDocumentMoniker": "LightHTMLFlyweight\\ElementFactory.cs",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\ElementFactory.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\ElementFactory.cs",
               "RelativeToolTip": "LightHTMLFlyweight\\ElementFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -663,11 +695,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "pg1513.txt",
-              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\pg1513.txt",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\pg1513.txt",
               "RelativeDocumentMoniker": "LightHTMLFlyweight\\pg1513.txt",
-              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Lab3\\LightHTMLFlyweight\\pg1513.txt",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0430\u043A\u0430\u0431\u0440\u043F\u0430\\OneDrive\\Desktop\\\u043A\u043F\u0437\\\u043C\u043A\u04401\\LightHTMLFlyweight\\pg1513.txt",
               "RelativeToolTip": "LightHTMLFlyweight\\pg1513.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",

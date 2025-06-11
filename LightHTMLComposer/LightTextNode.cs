@@ -1,6 +1,6 @@
 ﻿namespace LightHTMLComposer
 {
-    class LightTextNode : LightNode
+    public class LightTextNode : LightNode
     {
         private string text;
 
